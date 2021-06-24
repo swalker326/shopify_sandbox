@@ -1,0 +1,20 @@
+{
+  "name": "shopify_sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox Shopify Template",
+  "main": "index.js",
+  "scripts": {
+    "watch": "theme watch",
+    "deploy": "theme deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swalker326/shopify_sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swalker326/shopify_sandbox/issues"
+  },
+  "homepage": "https://github.com/swalker326/shopify_sandbox#readme"
+}
