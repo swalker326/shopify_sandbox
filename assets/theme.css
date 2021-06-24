@@ -288,7 +288,7 @@ select,
   -webkit-text-size-adjust: 100%; }
 
 a {
-  background-color: blue; }
+  background-color: transparent; }
 
 b,
 strong {
@@ -3686,7 +3686,6 @@ hr {
 /*================ MODULES ================*/
 .site-header {
   position: relative;
-  color: red;
   background-color: var(--color-body); }
   @media only screen and (max-width: 749px) {
     .site-header {
@@ -3708,13 +3707,12 @@ hr {
         margin: 15px 0; } }
   @media only screen and (max-width: 749px) {
     .site-header__logo {
-      padding-left: 222px;
+      padding-left: 22px;
       text-align: left; }
       .site-header__logo img {
         margin: 0; } }
 
 .site-header__logo-link {
-  color: blue;
   display: inline-block;
   word-break: break-word; }
   @media only screen and (min-width: 750px) {
